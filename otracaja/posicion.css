@@ -1,0 +1,74 @@
+body{
+	background-color: #d5a1f2;
+}
+#cajauno{
+	margin: 30px 100px;
+	border: 1px solid black;
+	padding: 20px;
+	background-color: #ece5b6;
+	position: static;
+	top: 20px;
+
+
+
+}
+#cajauno h1{
+	text-align: center;
+	color: 666600;
+	font-size: 1.8em;
+}
+#cajauno img{
+	padding-right: 20px;
+	border-radius: 40px;
+}
+#cajauno p{
+	font-family: "courier new";
+	font-size: 1.1em;
+	color: #3300ff;
+
+}
+
+#cajados{
+	margin: 20px;
+	border: 5px double #ff33ff;
+	background-image: url("../otracaja/1056804515.jpg");
+	position: absolute;
+	top:250px;
+	left: 320px;
+
+}
+#cajados h1{
+	font-family: verdana;
+	font-style: italic;
+	font-size: 2em;
+	margin-left: 3em;
+}
+#cajados p{
+	font-family: "comic sans MS";
+	font-size: 1.1em;
+	color: #ff00cc;
+	text-align: center;
+}
+#cajados ul{
+	list-style-type: square;
+	margin-left: 100px;
+}
+#cajados li{
+	font-size: 1.2em;
+	font-family: europa;
+	color: #009966;
+	margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

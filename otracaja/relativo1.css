@@ -1,0 +1,128 @@
+.contenedor{
+	width:900px;
+	height: 500px;
+	background: #0f5a6b;
+	position:absolute;
+	left: 100px;
+	top: 50px;
+	border: 2px solid;
+	border-color: #009a7c;
+	
+}
+
+.cabecera{
+	width: 880px;
+	height: 60px;
+	background: #00f45b;
+	position: relative;
+	top: -20px;
+	left: 10px;
+	right: -10px;
+	top: 2px;
+	border: 2px solid;
+	border-color: #009a7c;
+}
+.menu{
+	width: 880px;
+	height: 60px;
+	background: #00ff00;
+	position: relative;
+	top: 5px;
+	left: 10px;
+	right: -10px;
+	border: 2px solid;
+	border-color: #009a7c;
+
+}
+.izquierda{
+	width: 270px;
+	height: 270px;
+	background: #ff1a3b;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	border: 2px solid;
+	border-color: #009a7c;
+	margin: 6px;
+	float: left;
+	
+
+}
+.centro{
+	width: 270px;
+	height: 270px;
+	background: #ff1a3b;
+	position: relative;
+	left: 20px;
+	top: 10px;
+	border: 2px solid;
+	border-color: #009a7c;
+	margin: 6px;
+	float: left;
+}
+.derecho{
+	width: 270px;
+	height: 270px;
+	background: #ff1a3b;
+	position: relative;
+	top: 10px;
+	left: 30px;
+	border:2px solid;
+	border-color: #009a7c;
+	margin: 6px;
+	float: left;
+
+}
+.pie{
+	width:870px;
+	height: 60px;
+	background: #ff00cc;
+	position: relative;
+	left: 18px;
+	top: 13px;
+	border: 2px solid;
+	border-color: #009a7c;
+	clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

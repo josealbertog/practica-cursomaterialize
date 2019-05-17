@@ -1,0 +1,98 @@
+#cajita1{
+	background: #4ab200;
+	width: 200px;
+	height: 200px;
+
+	position: absolute;
+	left: 50px;
+	padding: 20px;
+	border: 4px dashed #ccc;
+	margin: 30px;
+
+
+}
+#cajita2{
+	background: #4ab200;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 500px;
+	top:20px;
+	padding-top:40px;
+	border: 3px double #123;
+	margin-top: 10px;
+
+}
+#cajita3{
+	background: #4ab200;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 1000px;
+	top: 20px;
+	padding-left: 20px;
+	border-left: 4px dotted #f00;
+	margin-left: 40px;
+
+
+	
+}
+#cajita4{
+	background: #0fabf1;
+	width: 800px;
+	height: 200px;
+	position: absolute;
+	top: 250px;
+	left: 230px;
+	padding-right: 50px;
+	padding-left: 30px;
+	border-right:5px groove #0000ff;
+	border-left: 5px groove #0f0;
+	margin:40px;
+}
+#cajita5{
+	background: #0000f1;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 480px;
+	left: 50px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+	border-bottom:9px ridge #000;
+	border-top: 9px ridge #000;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+#cajita6{
+	background: #0000f1;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 480px;
+	left: 500px;
+	padding: 50px;
+	border-top: 9px solid yellow;
+	border-right: 9px solid red;
+	border-radius:40px;
+	margin: 4px 8px 20px 40px;
+
+}
+#cajita7{
+	background: #000ff1;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 480px;
+	left: 1000px;
+}
+h1{
+	position: absolute;
+	bottom: -100px;
+	left: 500px;
+}
+
+
+
+
